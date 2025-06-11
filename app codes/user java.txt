@@ -1,4 +1,3 @@
-user.java
 
 import java.util.Scanner;
 
