@@ -19,10 +19,10 @@ Since the application and code structure are understandable, further development
 Make sure the code files are in the proper order. You can use your preferred IDE (Visual Studio Code, IntelliJ IDEA or Eclipse).
 
 Also the file order should be as follows:
-Main.java
-menu.java
-collection.java
-user.java
+Main.java - 
+menu.java - 
+collection.java - 
+user.java - 
 inputhelper.java
 
 It would be beneficial to make sure that the codes are complete and the files are in the correct location. If you want to try it, I wish you good fun.
